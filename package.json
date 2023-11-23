@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AcidInvader/test_node_js#readme",
   "dependencies": {
-    "cowsay": "^1.5.0"
+    "currency-converter-lt": "^2.0.1"
   }
 }
